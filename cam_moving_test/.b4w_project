@@ -1,0 +1,28 @@
+[info]
+author = 
+icon = 
+name = cam_moving_test
+title = 
+
+[paths]
+assets_dirs = projects/cam_moving_test/assets;
+blend_dirs = projects/cam_moving_test/blender;
+blender_exec = /home/roman/apps/blender/blender
+build_dir = projects/cam_moving_test/build
+deploy_dir = 
+
+[compile]
+apps = 
+css_ignore = 
+engine_type = copy
+ignore = 
+js_ignore = 
+optimization = simple
+use_physics = True
+
+[deploy]
+assets_path_dest = assets
+assets_path_prefix = assets
+ignore = 
+override = 
+
